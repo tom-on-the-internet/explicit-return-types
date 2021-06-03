@@ -1,4 +1,6 @@
-Why Explicit Return Types Are Good
+# Why Explicit Return Types Are Good
+
+[VIDEO](https://youtu.be/bHKpkjaoIM8)
 
 1. Editor can help you out
 2. Helps catch errors early
